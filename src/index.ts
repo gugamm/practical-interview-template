@@ -1,5 +1,5 @@
 /*
-* You can type your code here
+* Don't modify this file
 */
 
 import { main } from './application'
